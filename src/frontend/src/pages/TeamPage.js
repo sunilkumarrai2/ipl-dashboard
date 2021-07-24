@@ -1,7 +1,7 @@
 // import React from 'react';
 
-import { MatchDetailCard } from "../components/MatchDetailCard"
-import { MatchSmallCard } from "../components/MatchSmallCard"
+import { MatchDetailCard } from "../Components/MatchDetailCard"
+import { MatchSmallCard } from "../Components/MatchSmallCard"
 
 
 export const TeamPage = () => {
